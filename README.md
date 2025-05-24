@@ -6,7 +6,7 @@ LinearWiz facilita la resolución y visualización de problemas de programación
 
 ---
 
-**Desarrollado con pasión por [TheReeds](https://github.com/TheReeds)**
+**Desarrollado por [TheReeds](https://github.com/TheReeds)**
 
 ---
 
