@@ -1,20 +1,28 @@
-# 📐 LinearWiz
+# 📊 LinearWiz
 
 **LinearWiz** es una herramienta interactiva desarrollada en HTML, CSS y JavaScript que permite a los usuarios visualizar y comprender funciones lineales de manera dinámica. Utiliza Tailwind CSS a través de CDN para un diseño moderno y responsivo.
 
+LinearWiz facilita la resolución y visualización de problemas de programación lineal y cálculos matriciales para estudiantes y profesionales.
+
+---
+
+**Desarrollado con pasión por [TheReeds](https://github.com/TheReeds)**
+
+---
+
 ## 🚀 Características
 
-- Visualización de funciones lineales en tiempo real.
-- Interfaz intuitiva y amigable para el usuario.
-- Estilos personalizados con Tailwind CSS mediante CDN.
-- Despliegue sencillo a través de GitHub Pages.
+* Visualización de funciones lineales en tiempo real.
+* Interfaz intuitiva y amigable para el usuario.
+* Estilos personalizados con Tailwind CSS mediante CDN.
+* Despliegue sencillo a través de GitHub Pages.
 
 ## 🔧 Tecnologías Utilizadas
 
-- **HTML5**: Estructura del contenido.
-- **CSS3**: Estilos personalizados.
-- **JavaScript**: Lógica y funcionalidades interactivas.
-- **Tailwind CSS (CDN)**: Framework de estilos utilitario.
+* **HTML5**: Estructura del contenido.
+* **CSS3**: Estilos personalizados.
+* **JavaScript**: Lógica y funcionalidades interactivas.
+* **Tailwind CSS (CDN)**: Framework de estilos utilitario.
 
 ## 📁 Estructura del Proyecto
 
@@ -26,7 +34,7 @@ LinearWiz/
 
 ## 🌐 Visualiza la Aplicación
 
-Puedes acceder a la aplicación en vivo aquí:  
+Puedes acceder a la aplicación en vivo aquí:
 [https://thereeds.github.io/LinearWiz/](https://thereeds.github.io/LinearWiz/)
 
 ## 🛠️ Cómo Ejecutar Localmente
